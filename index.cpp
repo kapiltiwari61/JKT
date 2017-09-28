@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
-//hardik please make it more look and feel
+//i cannot
 
 int main() {
     int n,size;
