@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
-//i cannot
+//i can
 
 int main() {
     int n,size;
