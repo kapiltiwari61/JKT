@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
+//hardik please make it more look and feel
 
 int main() {
     int n,size;
